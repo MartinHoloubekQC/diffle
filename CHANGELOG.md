@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file.
 
+## [0.3.7](https://github.com/moritzwilksch/diffle/compare/v0.3.6...v0.3.7) - 2026-11-02
+
+### Features
+
+- _(server)_ Add a version endpoint for other clients ([#431](https://github.com/moritzwilksch/diffle/pull/431))
+
 ## [0.3.6](https://github.com/moritzwilksch/diffle/compare/v0.3.5...v0.3.6) - 2026-11-01
 
 ### Features
